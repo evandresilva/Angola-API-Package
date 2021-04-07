@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angola-API-Package", "Angola-API-Package\Angola-API-Package.csproj", "{8849A8CD-C341-4470-BB4E-32F1F0D2D7F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angola-API-Package-Console", "Angola-API-Package-Console\Angola-API-Package-Console.csproj", "{A18E4821-5FEB-4AD8-BFE9-E2952E84B6AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8849A8CD-C341-4470-BB4E-32F1F0D2D7F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8849A8CD-C341-4470-BB4E-32F1F0D2D7F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8849A8CD-C341-4470-BB4E-32F1F0D2D7F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8849A8CD-C341-4470-BB4E-32F1F0D2D7F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A18E4821-5FEB-4AD8-BFE9-E2952E84B6AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18E4821-5FEB-4AD8-BFE9-E2952E84B6AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18E4821-5FEB-4AD8-BFE9-E2952E84B6AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18E4821-5FEB-4AD8-BFE9-E2952E84B6AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B3D2219-AED5-4A91-BD80-0BDE7386A5C9}
+	EndGlobalSection
+EndGlobal
